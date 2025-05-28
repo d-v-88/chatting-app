@@ -65,3 +65,35 @@ A strong foundation for developing secure messaging systems.
 Educational tool to demonstrate full-stack real-time applications.
 
 ## OUTPUT
+
+![Image](https://github.com/user-attachments/assets/1441f98c-4a31-40e2-9112-9de74b54796d)
+
+
+![Image](https://github.com/user-attachments/assets/53bfecc8-51ec-4c5b-9c9a-06e1c309d6ab)
+
+
+![Image](https://github.com/user-attachments/assets/e8fd82e2-d01f-4da9-811f-1187ef1710b1)
+
+
+![Image](https://github.com/user-attachments/assets/7daa70b3-1b8a-4094-8e87-96913ea7ff57)
+
+
+![Image](https://github.com/user-attachments/assets/27f12fa2-1057-4037-9cec-c6ec4d767a68)
+
+
+![Image](https://github.com/user-attachments/assets/1ab29b2b-71d7-4774-918e-deaa6ee647d1)
+
+
+![Image](https://github.com/user-attachments/assets/a6123c00-06af-460a-9183-702c428f30a1)
+
+
+![Image](https://github.com/user-attachments/assets/11e08dcf-7b3f-4213-8435-30fc65ff0730)
+
+
+![Image](https://github.com/user-attachments/assets/7210a23e-a192-4a7f-ac11-31cba9569c1a)
+
+
+![Image](https://github.com/user-attachments/assets/d05108eb-7015-4130-953f-8ed11a932fd5)
+
+
+![Image](https://github.com/user-attachments/assets/a2e1e640-c559-4582-9e78-8d9926dcb0f8)
