@@ -1,2 +1,13 @@
 # chatting-app
 
+*COMPANY*: CODTECH IT SOULTIONS
+
+*NAME*: DHITI N VARMA
+
+*INTERN ID*: CT04DL514
+
+*DOMAIN*: React.js Web Development
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTOSH
