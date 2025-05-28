@@ -43,6 +43,28 @@ The project was developed and maintained using:
 
 *Git & GitHub*: For version control and project collaboration.
 
+## Backend (Node.js + Express)
+Node.js – Runtime environment for building the backend
+
+Express.js – Web framework for creating RESTful APIs
+
+Socket.IO (server) – To handle real-time communication between users
+
+Multer – For handling file uploads (images/videos)
+
+bcrypt.js – For securely hashing user passwords
+
+JSON Web Token (JWT) – For user authentication and session management
+
+MongoDB Atlas – For storing user data, messages, and media URLs
+
+Mongoose – ODM (Object Data Modeling) library for MongoDB
+
+## Other Tools
+Cloudinary – For storing and serving images and videos (if used)
+
+Postman – For API testing during development
+
 ## APPLICABILITY 
 This Chat-App is a practical, real-word application that can be used in various scenarios:
 
